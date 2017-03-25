@@ -1,0 +1,17 @@
+:root {
+    --main-bg-color: #181526;
+    --scnd-bg-color: #211b33;
+    --thrd-bg-color: #463779;
+
+    --main-tx-color: #fff;
+
+    --m-btn-hover-fg: #fff;
+    --m-btn-hover-bg: rgba(0, 0, 0, 0.15);
+
+    --s-inpt-bg: var(--main-bg-color);
+    --s-inpt-btn-fg: var(--thrd-bg-color);
+}
+
+.rarara {
+    width: 332px !important;
+}
