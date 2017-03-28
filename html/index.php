@@ -24,10 +24,10 @@
             <div class="rarara"><a href="https://derpibooru.org/search?utf8=%E2%9C%93&sbq=ry"><img id="rararaimg" class="raimg" src="img/rarara_02.png"></a></div>
 
             <div class="b1">
-                <a class="m-btn" href="https://rarity.network:22400/web/index.html"><i class="fa fa-play-circle"></i><h3>PLEX</h3></a>
+                <a class="m-btn" href="https://plex.rarity.network/"><i class="fa fa-play-circle"></i><h3>PLEX</h3></a>
                 <a class="m-btn" href="https://www.youtube.com/feed/subscriptions"><i class="fa fa-youtube-square"></i><h3>YOUTUBE</h3></a>
                 <a class="m-btn" href="https://www.twitch.tv/directory/following"><i class="fa fa-twitch"></i><h3>TWITCH</h3></a>
-                <a class="m-btn" href="https://rarity.network:8920/web/index.html"><i class="fa fa-play-circle"></i><h3>EMBY</h3></a>
+                <a class="m-btn" href="https://emby.rarity.network/"><i class="fa fa-play-circle"></i><h3>EMBY</h3></a>
             </div>
 
             <div class="b2">
