@@ -66,7 +66,7 @@ function setNightMare() {
 function removeNightMare() {
     var NightMareCSSLink = document.getElementById("NightMareCSS");
     NightMareCSSLink.parentNode.removeChild(NightMareCSSLink);
-    rararaimg.src = "img/rarara_01.png";
+    rararaimg.src = "img/rarara.apng";
     rararaimg.parentNode.href = "https://derpibooru.org/search?utf8=%E2%9C%93&sbq=ry";
     ddg.src = "img/ddg.svg";
 }

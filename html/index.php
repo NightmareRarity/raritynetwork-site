@@ -21,7 +21,7 @@
 
         <div class="content">
 
-            <div class="rarara"><a href="https://derpibooru.org/search?utf8=%E2%9C%93&sbq=ry"><img id="rararaimg" class="raimg" src="img/rarara_02.png"></a></div>
+            <div class="rarara"><a href="https://derpibooru.org/search?utf8=%E2%9C%93&sbq=ry"><img id="rararaimg" class="raimg" src="img/rarara.apng"></a></div>
 
             <div class="b1">
                 <a class="m-btn" href="https://plex.rarity.network/"><i class="fa fa-play-circle"></i><h3>PLEX</h3></a>
